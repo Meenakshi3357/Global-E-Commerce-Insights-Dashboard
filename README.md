@@ -80,7 +80,8 @@ It showcases the application of business intelligence in global e-commerce, help
 You can insert your dashboard image below once uploaded (for example, a screenshot of your Tableau dashboard).
 
 ```markdown
-![Dashboard Preview](picture.png)
+![Dashboard Preview](https://github.com/Meenakshi133577/Global-E-Commerce-Insights-dashboard/blob/main/picture.png?raw=true)
+
 
 
 
